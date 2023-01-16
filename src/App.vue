@@ -6,7 +6,7 @@ if (!customElements.get('custom-scale-app-shell')) {
 </script>
 
 <template>
-  <custom-scale-app-shell claim-lang="de" logo-title="App Name" logo-href="/">
+  <custom-scale-app-shell claim-lang="en" logo-title="App Name" logo-href="/">
     <div>
       Scroll to test header behavior
       <p />
@@ -34,6 +34,7 @@ if (!customElements.get('custom-scale-app-shell')) {
     <div>
       Scroll more to test header behavior
       <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+      <br /><br /><br /><br />
     </div>
   </custom-scale-app-shell>
 </template>
